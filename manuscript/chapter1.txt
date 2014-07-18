@@ -1,0 +1,46 @@
+# Before I wrote the book
+
+So, I am finally writing this book. This is the result of an idea I had two
+years ago already. So, why am I writing it? Mostly all of my friends who have
+written books have told me what an awful experience it was, so it seems I am
+starting a project that might not be finished. After all I am self publishing
+it. 
+
+The reason is that I have to write it, it is something that I need to get out
+of me. I have been doing talks on the subject for a number of years and have
+received really good feedback, so I assume this will close the circle for me
+in a sort of way.
+
+# 
+
+In many ways I've been lucky in my career as a software developer. Oh god, the
+problem starts right there, with the title. People who are paid to produce
+software that runs on a computer have an existential problem trying to
+explaing what they do and most importantly don't do during their working days.
+
+"Programmer" is only for people under 30, as it implies people who only works
+with the computer.
+
+"Architect". No respectable software developer wants to be labelled
+"architect" because everyone knows that they really don't know anything. Which
+is exactly the reason why some people aspire to the title. No more stressful
+allnighters solving low level problems, only 9-5 whiteboard and Rational Rose
+sessions declaring in a suitably unclear way what the enterprise architecture
+perhaps will look like in 2 years.
+
+"Project Manager". Are you crazy? All they do is go around asking people about
+statuses and then writing down the answers in a heavily templated Word
+document which is sent to people more important than them. Repeat until
+retirement.
+
+Some companies try to get away from this by allowing their employees to make
+up their own titles. The result ranges from the funny ("code monkey") to the
+sad ("code monkey"). 
+
+I myself have two solutions. 
+
+1. No title at all, or "Consultant" - which basically only tells you the legal
+   coupling between me and the company I work for.
+2. "Software Developer". I quite like this one, and I think more people should
+   too. Because developing software is most often what I do. I am most never
+   involved in doing hardware, or make that never as in never-never. 

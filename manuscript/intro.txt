@@ -1,0 +1,36 @@
+Most of us have been there.
+
+> "The deadline for this project is in two months, and it is very
+>  important that we make that date"
+>
+> "But there is no way we'll make it. The migration in itself is planned
+>  to take a month, and we haven't even started testing yet."
+>
+> "Well, you will have to start testing in parallel with the migration."
+>
+> "But that's not even possible."
+>
+> "I don't care, just do it. We have to finish the project on time."
+
+Perhaps you haven't been there yourself, perhaps you're just upset
+that IT can't deliver stuff on time. You really should do something
+about that department.
+
+This book tries to explain how software development works, what it is
+and what it isn't. It will teach you a bit of history to show you why
+we organize companies the way we do.
+
+This is not a technical book at all. I will not teach you
+_programming_, as in how to write code for the computer. Not everyone
+in involved in with software business automation needs to know how to
+program, however much I happen to love programming. It's really a lot
+of fun.
+
+But I will tell you how the process of _software development_ works,
+meaning everything leading up to and around the actual programming. If
+you are part of business automation, it is my strong opinion that you
+need to understand this, or be confident enough to delegate decisions
+to someone who does.
+
+Hope you enjoy it. If you have any questions or comments, please
+forward them to marcus@bstab.come

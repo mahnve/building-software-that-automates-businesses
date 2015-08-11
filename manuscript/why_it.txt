@@ -1,0 +1,13 @@
+# Why Do We Have IT?
+
+Computers have become so ubiquitous, that we do need to remind
+ourselves why we use them. We use computers to control car engines and
+nuclear power plants, we use them to play games, edit photos.
+
+In the business world we use computers to automate manual
+processes. That is something that we tend to forget, because we've
+become so used to doing it. Everyone has email, but what it does is
+automate the sending of letters. We used to have, and I hear some
+still have, internal mail, where you put paper in envelopes, and you
+had actual people carrying them around delivering them to its intended
+recipient.

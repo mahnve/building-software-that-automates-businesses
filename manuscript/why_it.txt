@@ -10,4 +10,33 @@ become so used to doing it. Everyone has email, but what it does is
 automate the sending of letters. We used to have, and I hear some
 still have, internal mail, where you put paper in envelopes, and you
 had actual people carrying them around delivering them to its intended
-recipient.
+recipient. Your email system automates this, and if it is connected to
+the Internet, it also automates what you used to pay the Postal
+Service to do.
+
+These days we are amazed by pictures of old offices, where row upon
+row of office clerks all were doing repetitive tasks of handling
+incoming payment slips, calculating monthly reports etc. These tasks
+have also been automated using software.
+
+Pretty much like the factory before it, the office has automated
+repetitive, menial tasks. If you've ever uttered the phrase "a machine
+could do this", chances are it could. Where manual repetitive tasks
+were automated in the factory, repetitive thought processes have been
+and continues to be automated.
+
+The processes mentioned above were the first to be automated, and are
+processes that are pretty much the same wherever you are. People don't
+really differ that much when it comes to accounting, those who do are
+seldom looked upon favorable by law enforcement agencies.
+
+For these kind of processes, you can actually buy software that does
+what you want to do. Very few people these days have reason to build
+their own email server, or their own accounting system. Building
+software is expensive, so it is normally well spent money to buy an
+accounting system.
+
+But then we have the processes where you don't do things like
+everybody else. This is the stuff that defines your company, your
+unique selling point and what sets you apart. Some of these processes
+are repetitive, and can be automated. But should they?

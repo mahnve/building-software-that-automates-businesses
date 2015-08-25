@@ -1,42 +1,130 @@
 # Why Do We Have IT?
 
-Computers have become so ubiquitous, that we do need to remind
-ourselves why we use them. We use computers to control car engines and
-nuclear power plants, we use them to play games, edit photos.
+## Why Computers?
 
-In the business world we use computers to automate manual
-processes. That is something that we tend to forget, because we've
-become so used to doing it. Everyone has email, but what it does is
-automate the sending of letters. We used to have, and I hear some
-still have, internal mail, where you put paper in envelopes, and you
-had actual people carrying them around delivering them to its intended
-recipient. Your email system automates this, and if it is connected to
-the Internet, it also automates what you used to pay the Postal
+Computers are good at basically four things:
+
+* Calculations
+* Remembering things
+* Talking to other computers
+
+Since the 50's we've used these capabilities to automate repetitive tasks in the
+business. Tax calculations that used to be done manually could now be done
+
+We used to have office workers, sometimes floor upon floor of them, doing manual
+calculations. These are now done by more correctly and way faster by computers.
+
+### Remembering Things
+
+We used to have all our information on paper like Rolodex's, file cabinets and
+encyclopedias. These are now replaced with your phone address book, file storage
+services and Wikipedia.
+
+## Talking To Other Computers.
+
+And we used to have, and I hear some still have, internal mail, where you put
+paper in envelopes, and you had actual people carrying them around delivering
+them to its intended recipient. Your email system automates this, and if it is
+connected to the Internet, it also automates what you used to pay the Postal
 Service to do.
+
+
+Every company has an IT department. Computers have become so ubiquitous, that we
+do need to remind ourselves why we use them. We use computers to control car
+engines and nuclear power plants, we use them to play games, edit photos.
+
+## Automating Processes
+
+In the business world we use computers to automate manual processes. That is
+something that we tend to forget, because we've become so used to doing
+it. Everyone has email, but what it does is automate the sending of letters.
 
 These days we are amazed by pictures of old offices, where row upon
 row of office clerks all were doing repetitive tasks of handling
 incoming payment slips, calculating monthly reports etc. These tasks
 have also been automated using software.
 
-Pretty much like the factory before it, the office has automated
-repetitive, menial tasks. If you've ever uttered the phrase "a machine
-could do this", chances are it could. Where manual repetitive tasks
-were automated in the factory, repetitive thought processes have been
-and continues to be automated.
+Pretty much like the factory before it, the office has automated repetitive,
+menial tasks. If you've ever uttered the phrase "a machine could do this",
+chances are it could. Where manual repetitive tasks were automated in the
+factory, repetitive thought processes have been and continues to be automated.
 
-The processes mentioned above were the first to be automated, and are
-processes that are pretty much the same wherever you are. People don't
-really differ that much when it comes to accounting, those who do are
-seldom looked upon favorable by law enforcement agencies.
+The processes mentioned above were the first to be automated, and are processes
+that are pretty much the same wherever you are. People don't really differ that
+much when it '
 
-For these kind of processes, you can actually buy software that does
-what you want to do. Very few people these days have reason to build
-their own email server, or their own accounting system. Building
-software is expensive, so it is normally well spent money to buy an
-accounting system.
+comes to accounting, those who do are seldom looked upon favorable by law
+enforcement agencies.
 
-But then we have the processes where you don't do things like
-everybody else. This is the stuff that defines your company, your
-unique selling point and what sets you apart. Some of these processes
-are repetitive, and can be automated. But should they?
+For these kind of processes there is existing software, commercial or open
+source, that does what you want to do.
+
+But then we have the processes where you don't do things like everybody
+else. This is the stuff that defines your company, your unique selling point and
+what sets you apart. Some of these processes are repetitive, and can be
+automated.
+
+Very few people these days have reason to build their own email server, or their
+own accounting system. Building software is expensive, so it is normally well
+spent money to buy an accounting system.
+
+Because there is a world of difference between automating stuff that you do just
+like everybody else, and the stuff that is uniquely yours. As stated earlier,
+for non-unique stuff you can buy stuff of the shelf, or use open source. This is
+the field of email, accounting, word processors, file storage, web servers. You
+don't build it, you use what's already there.
+
+But for stuff that's yours, you _can't_ buy stuff off the shelf. Don't believe
+the people who say you can. There are a lot of software vendors out there who
+claim that you only need to "configure" their software, and that's somehow
+different to programming. As I said, don't believe them.
+
+You will _always_ need to program software in order to automate processes that
+are uniquely yours. And this is normally when the problem starts. Which is what
+this book is all about.
+
+There might be a economic advantage to building your own software, but before
+you do you need to know how to do it.
+
+# What Are Computers Bad At?
+
+Computers are powerful and ubiquitous enough to have become the proverbial
+hammer and most every problem in the business looks like a nail. There is
+basically no problem conceivable that can't be solved by throwing a relational
+database and a web site backed by your standard vendor CMS at it.
+
+But computers are actually really bad at a lot of things. They are quite
+terrible at making impromptu workarounds and exceptions to rules. And is it
+turns out, there are a lot of those around.
+
+Your old manual expense routine might have required people to hand in receipts
+by the end of the month, but the nice people at the economics department
+normally could handle the occasional late entry if asked nicely. Your new
+automated routine has no such feature, which will leave a few people in your
+organization thinking that the new system is worse than the old one.
+
+My personal favorite exception to processes happened to myself a few years
+back. I had used the check-in machines at the airport, and just as I left my bag
+at the bag drop, I managed to put my boarding pass in the bag. I did not realize
+my mistake until the bag was well on its way. Now, I can't get on the plane
+without a boarding card, but the plane can't leave without me with my bag on
+board.
+
+With mixture of embarrassment and panic I asked the lady manning the desk what I
+should do, and she told me to go see a certain Anders around the corner. Anders
+turns out to be some sort of security manager, and I again explain to him that I
+managed to check in my boarding card.
+
+
+What happens next is that Anders is able to sort the whole thing out. He brings
+me to an elevator, tells the security guard outside "He's with me", and we go
+down to the sorting room to find my bag and get my boarding card.
+
+The point here is that there are no written rules on how to handle this. An
+airport, much like a large company, has a lot of rules to describe what people
+should do in a multitude of scenarios. But you will always have a customer that
+manages to do something that you haven't thought of, and for that you have
+people to handle it. As soon as you automate it, you lose a lot of capability,
+instead creating the need for a large support organization.
+
+

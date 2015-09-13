@@ -1,5 +1,10 @@
 # Why Do We Have IT?
 
+Every company has an IT department. Computers have become so ubiquitous, that we
+do need to remind ourselves why we use them. We use computers to control car
+engines and nuclear power plants, we use them to play games, edit photos.
+
+
 ## Why Computers?
 
 Computers are good at basically four things:
@@ -13,36 +18,42 @@ business. Tax calculations that used to be done manually could now be done
 
 We used to have office workers, sometimes floor upon floor of them, doing manual
 calculations. These are now done by more correctly and way faster by computers.
-
-### Remembering Things
-
-We used to have all our information on paper like Rolodex's, file cabinets and
-encyclopedias. These are now replaced with your phone address book, file storage
-services and Wikipedia.
-
-## Talking To Other Computers.
-
-And we used to have, and I hear some still have, internal mail, where you put
-paper in envelopes, and you had actual people carrying them around delivering
-them to its intended recipient. Your email system automates this, and if it is
-connected to the Internet, it also automates what you used to pay the Postal
-Service to do.
-
-
-Every company has an IT department. Computers have become so ubiquitous, that we
-do need to remind ourselves why we use them. We use computers to control car
-engines and nuclear power plants, we use them to play games, edit photos.
-
-## Automating Processes
-
-In the business world we use computers to automate manual processes. That is
-something that we tend to forget, because we've become so used to doing
-it. Everyone has email, but what it does is automate the sending of letters.
-
 These days we are amazed by pictures of old offices, where row upon
 row of office clerks all were doing repetitive tasks of handling
 incoming payment slips, calculating monthly reports etc. These tasks
 have also been automated using software.
+
+
+### Remembering Things
+
+Computers are really good at remembering things, and finding them fast. 
+
+We used to have all our information on paper. When I was a kid and wanted to
+find a book in the library, I went to this specially made cupboard, which held
+an individual card for every book in the library. This was of course the analog
+version of a database. Addresses were written down on paper and stored in
+Rolodex's, another paper database. As of this writing, Amazon is still selling
+them, so I guess there are people still using them.
+
+Many people still have encyclopedias in their homes, but these days they are
+very seldom used. With the internet at hand, why settle for a slower and most
+probably out of date alternative?
+
+
+### Talking To Other Computers.
+
+At my first job at IBM, we were still using internal, physical, mail. You would
+put paper in a special envelope, and then we had this internal postal office
+which made sure they were delivered to its intended recipient. We now have email
+automating this process which just happened to also automate what you used to
+pay the Postal Service to do.
+
+## Automating Processes
+
+Given the above examples, we can start to see that the business world uses
+computers to automate manual processes. While this may seem like a fairly
+obvious observation, it is something that we tend to forget, because we've
+become so used to doing it. 
 
 Pretty much like the factory before it, the office has automated repetitive,
 menial tasks. If you've ever uttered the phrase "a machine could do this",
@@ -51,10 +62,8 @@ factory, repetitive thought processes have been and continues to be automated.
 
 The processes mentioned above were the first to be automated, and are processes
 that are pretty much the same wherever you are. People don't really differ that
-much when it '
-
-comes to accounting, those who do are seldom looked upon favorable by law
-enforcement agencies.
+much when it comes to accounting, and those who do are seldom looked upon
+favorable by law enforcement agencies.
 
 For these kind of processes there is existing software, commercial or open
 source, that does what you want to do.
@@ -103,31 +112,12 @@ normally could handle the occasional late entry if asked nicely. Your new
 automated routine has no such feature, which will leave a few people in your
 organization thinking that the new system is worse than the old one.
 
-My personal favorite exception to processes happened a few years back. It's
-early morning, and I am at the airport about to fly to Paris. I had used the
-check-in machines and tagged my own bag, and as I left my bag at the bag drop, I
-managed to put my boarding pass in the bag. I did not realize my mistake until
-the bag was well on its way down the conveyor belt. As you know, there was no
-way for me to get on the plane without a boarding card, but also, the plane
-can't leave without me with my bag on board, due to the obvious threat owner
-less bags are at an airplane.
-
-With mixture of embarrassment and panic I asked the lady manning the desk what I
-should do, and she told me to go see some Anders around the corner. I do just
-that, and Anders turns out to be some sort of security manager, and I again
-explain to him that I managed to check in my boarding card. I am really not sure
-what to expect at this point.
-
-What happens next is that Anders is able to sort the whole thing out. He brings
-me to an elevator, tells the security guard outside "He's with me", and we go
-down to the sorting room to find my bag and get my boarding card. Way less
-complicated than I thought it would be.
-
 The point here is that there are no written rules on how to handle this. An
 airport, much like a large company, has a lot of rules to describe what people
 should do in a multitude of scenarios. But you will always have a customer that
 manages to do something that you haven't thought of, and for that you have
 people to handle it. As soon as you automate it, you lose a lot of capability,
 instead creating the need for a large support organization.
+
 
 

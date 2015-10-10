@@ -1,0 +1,34 @@
+## The History of Factory Processes.
+
+I used to think that large corporation are run the way they are because it is
+the most efficient way. I mean, in a darwinistic capitalist society, only the
+strong should survive, right?
+
+Well, it turns out it's not really that way, not at all. In fact, in order to
+understand why we run corporations the way we do, we need to take a few steps
+back in time.
+
+The first corporation created during the industrial revolution where required a
+lot of manpower, and while workers certainly worked under dreadful conditions,
+it was most often an _inefficient_ dreadfulness. Work processes where organized
+by "Rule of thumb", and focused on making people work hard.
+
+## Taylorism
+
+In the midst of this a man named Frederic Winslow Taylor started working as a
+process engineer for Betlehem Steel, which for a long time was the USA's second
+largest steel producer.
+
+Mr Taylor wanted to improve the effectiveness of every individual worker, and he
+did that by using what he called a scientific process. In the Betlehem Steel
+factory, there were people who's work assignment was to carry pig iron from
+point A to point B. Taylor selected certain individual workers, and promised
+them better pay if they worked strictly according to his instructions.
+
+Taylor would then run experiments to see what would result in a maximal amount
+of pig iron being carried over the course of a day. This would include how much
+iron to carry each time, not to get fatigued and slowed down, and how the iron
+was transported. It used to be customary for workers to bring their own shovels
+to work, which meant that no shovel looked like the other. Taylor instead
+calculated how big a shovel should ideally be, to get just the right amount of
+gravel at each dig, to 

@@ -7,7 +7,36 @@ engines and nuclear power plants, we use them to play games, edit photos.
 
 ## Why Computers?
 
-Computers are good at basically four things:
+### What Are Computers Bad At?
+
+Computers are powerful and ubiquitous enough to have become the proverbial
+hammer and most every problem in the business looks like a nail. There is
+basically no problem conceivable that can't be solved by throwing a relational
+database and a web site backed by your standard vendor content management system
+at it.
+
+But computers are actually really bad at a lot of things. They are terrible at
+making impromptu workarounds and exceptions to rules. And is it turns out, there
+are a lot of those around.
+
+Your old manual expense routine might have required people to hand in receipts
+by the end of the month, but the nice people at the economics department
+normally could handle the occasional late entry if asked nicely. Your new
+automated routine has no such feature, which will leave people in your
+organization thinking that the new system is worse than the old one.
+
+The point here is that there are no written rules on how to handle this. An
+airport, much like a large company, has a lot of rules to describe what people
+should do in a multitude of scenarios. But you will always have a customer that
+manages to do something that you haven't thought of, and for that you have
+people to handle it. As soon as you automate it, you lose a lot of capability,
+instead creating the need for a large support organization.
+
+### What are computers good at?
+
+Now that we've sorted out what computers can't do, let's focus on what they do
+well. As it turns out, computers are good, no excellent, at basically three
+things:
 
 * Calculations
 * Remembering things
@@ -72,31 +101,3 @@ But then we have the processes where you don't do things like everybody
 else. This is the stuff that defines your company, your unique selling point and
 what sets you apart. Some of these processes are repetitive, and can be
 automated. And how this is done is what this book is all about.
-
-# What Are Computers Bad At?
-
-Computers are powerful and ubiquitous enough to have become the proverbial
-hammer and most every problem in the business looks like a nail. There is
-basically no problem conceivable that can't be solved by throwing a relational
-database and a web site backed by your standard vendor content management system
-at it.
-
-But computers are actually really bad at a lot of things. They are terrible at
-making impromptu workarounds and exceptions to rules. And is it turns out, there
-are a lot of those around.
-
-Your old manual expense routine might have required people to hand in receipts
-by the end of the month, but the nice people at the economics department
-normally could handle the occasional late entry if asked nicely. Your new
-automated routine has no such feature, which will leave people in your
-organization thinking that the new system is worse than the old one.
-
-The point here is that there are no written rules on how to handle this. An
-airport, much like a large company, has a lot of rules to describe what people
-should do in a multitude of scenarios. But you will always have a customer that
-manages to do something that you haven't thought of, and for that you have
-people to handle it. As soon as you automate it, you lose a lot of capability,
-instead creating the need for a large support organization.
-
-
-

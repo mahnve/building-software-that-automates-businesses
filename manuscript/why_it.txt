@@ -13,15 +13,15 @@ Computers are good at basically four things:
 * Remembering things
 * Talking to other computers
 
-Since the 50's we've used these capabilities to automate repetitive tasks in the
-business. Tax calculations that used to be done manually could now be done
-
 We used to have office workers, sometimes floor upon floor of them, doing manual
 calculations. These are now done by more correctly and way faster by computers.
-These days we are amazed by pictures of old offices, where row upon
-row of office clerks all were doing repetitive tasks of handling
-incoming payment slips, calculating monthly reports etc. These tasks
-have also been automated using software.
+
+
+[Picture]
+
+Pictures of old offices shows row upon row of office clerks, all doing
+repetitive tasks of handling incoming payment slips, calculating monthly reports
+etc. These tasks have also been automated using software.
 
 
 ### Remembering Things
@@ -36,7 +36,7 @@ Rolodex's, another paper database. As of this writing, Amazon is still selling
 them, so I guess there are people still using them.
 
 Many people still have encyclopedias in their homes, but these days they are
-very seldom used. With the internet at hand, why settle for a slower and most
+seldom used. With the internet at hand, why settle for a slower and most
 probably out of date alternative?
 
 
@@ -51,9 +51,9 @@ pay the Postal Service to do.
 ## Automating Processes
 
 Given the above examples, we can start to see that the business world uses
-computers to automate manual processes. While this may seem like a fairly
-obvious observation, it is something that we tend to forget, because we've
-become so used to doing it. 
+computers to automate manual processes. While this may seem like an obvious
+observation, it is something that we tend to forget, because we've become so
+used to doing it.
 
 Pretty much like the factory before it, the office has automated repetitive,
 menial tasks. If you've ever uttered the phrase "a machine could do this",
@@ -71,45 +71,24 @@ source, that does what you want to do.
 But then we have the processes where you don't do things like everybody
 else. This is the stuff that defines your company, your unique selling point and
 what sets you apart. Some of these processes are repetitive, and can be
-automated.
-
-Very few people these days have reason to build their own email server, or their
-own accounting system. Building software is expensive, so it is normally well
-spent money to buy an accounting system.
-
-Because there is a world of difference between automating stuff that you do just
-like everybody else, and the stuff that is uniquely yours. As stated earlier,
-for non-unique stuff you can buy stuff of the shelf, or use open source. This is
-the field of email, accounting, word processors, file storage, web servers. You
-don't build it, you use what's already there.
-
-But for stuff that's yours, you _can't_ buy stuff off the shelf. Don't believe
-the people who say you can. There are a lot of software vendors out there who
-claim that you only need to "configure" their software, and that's somehow
-different to programming. As I said, don't believe them.
-
-You will _always_ need to program software in order to automate processes that
-are uniquely yours. And this is normally when the problem starts. Which is what
-this book is all about.
-
-There might be a economic advantage to building your own software, but before
-you do you need to know how to do it.
+automated. And how this is done is what this book is all about.
 
 # What Are Computers Bad At?
 
 Computers are powerful and ubiquitous enough to have become the proverbial
 hammer and most every problem in the business looks like a nail. There is
 basically no problem conceivable that can't be solved by throwing a relational
-database and a web site backed by your standard vendor CMS at it.
+database and a web site backed by your standard vendor content management system
+at it.
 
-But computers are actually really bad at a lot of things. They are quite
-terrible at making impromptu workarounds and exceptions to rules. And is it
-turns out, there are a lot of those around.
+But computers are actually really bad at a lot of things. They are terrible at
+making impromptu workarounds and exceptions to rules. And is it turns out, there
+are a lot of those around.
 
 Your old manual expense routine might have required people to hand in receipts
 by the end of the month, but the nice people at the economics department
 normally could handle the occasional late entry if asked nicely. Your new
-automated routine has no such feature, which will leave a few people in your
+automated routine has no such feature, which will leave people in your
 organization thinking that the new system is worse than the old one.
 
 The point here is that there are no written rules on how to handle this. An

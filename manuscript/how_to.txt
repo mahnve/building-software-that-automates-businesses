@@ -1,0 +1,22 @@
+
+Few people these days have reason to build their own email server, or their
+own accounting system. Building software is expensive, so it is normally well
+spent money to buy an accounting system.
+
+Because there is a world of difference between automating stuff that you do just
+like everybody else, and the stuff that is uniquely yours. As stated earlier,
+for non-unique stuff you can buy stuff of the shelf, or use open source. This is
+the field of email, accounting, word processors, file storage, web servers. You
+don't build it, you use what's already there.
+
+But for stuff that's yours, you _can't_ buy stuff off the shelf. Don't believe
+the people who say you can. There are a lot of software vendors out there who
+claim that you only need to "configure" their software, and that's somehow
+different to programming. As I said, don't believe them.
+
+You will _always_ need to program software in order to automate processes that
+are uniquely yours. And this is normally when the problem starts. Which is what
+this book is all about.
+
+There might be a economic advantage to building your own software, but before
+you do you need to know how to do it.

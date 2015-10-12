@@ -13,22 +13,32 @@ lot of manpower, and while workers certainly worked under dreadful conditions,
 it was most often an _inefficient_ dreadfulness. Work processes where organized
 by "Rule of thumb", and focused on making people work hard.
 
-## Taylorism
+## Taylorism - Scientific Management
 
 In the midst of this a man named Frederic Winslow Taylor started working as a
 process engineer for Betlehem Steel, which for a long time was the USA's second
 largest steel producer.
 
-Mr Taylor wanted to improve the effectiveness of every individual worker, and he
-did that by using what he called a scientific process. In the Betlehem Steel
-factory, there were people who's work assignment was to carry pig iron from
-point A to point B. Taylor selected certain individual workers, and promised
-them better pay if they worked strictly according to his instructions.
+Taylor wanted to use a scientific approach in order to improve the effectiveness
+of the factory. improving the individual process steps. This meant that he would
+instruct a worker to perform a work routine in a specific way and measure how
+long it took.
+
+In the Betlehem Steel factory, there were people who's work assignment was to
+carry pig iron from point A to point B. Taylor selected certain individual
+workers, and promised them better pay if they worked strictly according to his
+instructions.
 
 Taylor would then run experiments to see what would result in a maximal amount
-of pig iron being carried over the course of a day. This would include how much
-iron to carry each time, not to get fatigued and slowed down, and how the iron
-was transported. It used to be customary for workers to bring their own shovels
-to work, which meant that no shovel looked like the other. Taylor instead
-calculated how big a shovel should ideally be, to get just the right amount of
-gravel at each dig, to 
+of pig iron being carried over the course of a day. One experiment would be to
+measure how much iron the worker should carry each time in order to maximize the
+total amount carried over the course of a day. The workload should not be too
+light, but also not too heavy so that the worker becomes overly fatigued.
+
+Another experiment regarded shovels - it used to be customary for workers to bring their own shovels to work, which
+meant that no shovel looked like the other. Taylor instead calculated how big a
+shovel should ideally be, to get just the right amount of gravel at each dig,
+not too light and not too heavy.
+
+
+
